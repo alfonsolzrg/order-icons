@@ -6,7 +6,12 @@
   "name": "Order Gnome Shell extensions",
   "shell-version": [
     "45", 
-    "46"
+    "46",
+    "47",
+    "48",
+    "49",
+    "50",
+    "51"
   ],
   "url": "https://github.com/andia89/order-icons",
   "uuid": "order-extensions@wa4557.github.com",
